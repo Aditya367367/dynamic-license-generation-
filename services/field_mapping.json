@@ -1,0 +1,60 @@
+{
+  "fields": [
+    {
+      "field_name": "Licence Number",
+      "x": 380,
+      "y": 235,
+      "width": 365,
+      "height": 80,
+      "type": "text"
+    },
+    {
+      "field_name": "Validity From",
+      "x": 2486,
+      "y": 235,
+      "width": 329,
+      "height": 80,
+      "type": "date"
+    },
+    {
+      "field_name": "QR Code",
+      "x": 2887,
+      "y": 1850,
+      "width": 238,
+      "height": 221,
+      "type": "qr"
+    },
+    {
+      "field_name": "Name of the Licensee",
+      "x": 1298,
+      "y": 865,
+      "width": 1143,
+      "height": 171,
+      "type": "text"
+    },
+    {
+      "field_name": "Type of Premise",
+      "x": 1298,
+      "y": 1099,
+      "width": 1184,
+      "height": 113,
+      "type": "text"
+    },
+    {
+      "field_name": "License Category",
+      "x": 1285,
+      "y": 1220,
+      "width": 1174,
+      "height": 135,
+      "type": "text"
+    },
+    {
+      "field_name": "Address of Premise",
+      "x": 1285,
+      "y": 1355,
+      "width": 1152,
+      "height": 120,
+      "type": "multiline"
+    }
+  ]
+}
